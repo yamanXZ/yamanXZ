@@ -22,4 +22,3 @@ I'm on a journey to mastering **JavaScript**, **TypeScript**, **ReactJS**, **HTM
 | ![CSS Badge](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) | |
 
 
-![tiro-unscreen](https://github.com/user-attachments/assets/aaf1861a-7182-44ca-bc5c-02add02b8289)
