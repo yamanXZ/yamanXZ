@@ -20,3 +20,6 @@ I'm on a journey to mastering **JavaScript**, **TypeScript**, **ReactJS**, **HTM
 | ![Java Badge](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)| ![Next.js Badge](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)|
 | ![HTML Badge](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) | |
 | ![CSS Badge](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) | |
+
+
+![tiro](https://github.com/user-attachments/assets/3c5a5103-5d40-4fc4-9945-812ac6d263f0)
