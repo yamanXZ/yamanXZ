@@ -1,6 +1,6 @@
 ### 👋 Hi, I'm **Yaman**, a passionate Brazilian Developer!
 
-I'm on a journey to mastering **JavaScript**, **TypeScript**, **ReactJS**, **HTML/CSS**, *8NextJS**, **Java** and more (Probably). 🚀
+I'm on a journey to mastering **JavaScript**, **TypeScript**, **ReactJS**, **HTML/CSS**, **NextJS**, **Java** and more (Probably). 🚀
 
 🔹 **Focus Areas**:  
 - **Front-End Development**: Crafting seamless user experiences.  
